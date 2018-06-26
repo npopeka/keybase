@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am rideeme on github.
+  * I am rideeme (https://keybase.io/rideeme) on keybase.
+  * I have a public key ASDiXUKZ001X-LNfWrqHu6CNEr9GcOycOs_fa1gBvDY7Wwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e25d4299d34d57f8b35f5aba87bba08d12bf4670ec9c3acfdf6b5801bc363b5b0a",
+      "host": "keybase.io",
+      "kid": "0120e25d4299d34d57f8b35f5aba87bba08d12bf4670ec9c3acfdf6b5801bc363b5b0a",
+      "uid": "e2ac1651e121389749d27ba13d79b619",
+      "username": "rideeme"
+    },
+    "merkle_root": {
+      "ctime": 1530028503,
+      "hash": "eb79f924d129fed59d2bf5826d6fed5a9294bc7245e9fec2a19ab4ff2cf9cbd69e1897581c18f5de74a283429e5ab5ea171181329d1b0e769c4b5fa1a6b0a2f9",
+      "hash_meta": "ee978b567b6778fff0f104b4a8bce1bda250067ee1e05c269de0947329c97593",
+      "seqno": 3146733
+    },
+    "service": {
+      "entropy": "xpqn5YV9w5Sk0dQ6/qzLeZ9Q",
+      "name": "github",
+      "username": "rideeme"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1530028512,
+  "expire_in": 504576000,
+  "prev": "61c4f91f371d49941155e1ca2aaa414fc7da1ce0ae36a1d80eb1931a7e25b149",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASDiXUKZ001X-LNfWrqHu6CNEr9GcOycOs_fa1gBvDY7Wwo](https://keybase.io/rideeme), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4l1CmdNNV/izX1q6h7ugjRK/RnDsnDrP32tYAbw2O1sKp3BheWxvYWTESpcCBMQgYcT5HzcdSZQRVeHKKqpBT8faHOCuNqHYDrGTGn4lsUnEIDlVYd50OX9xqlHBkCjGuHVlFvL5HCfTvGga8wvi0qKfAgHCo3NpZ8RA0rpUWFOZadOa19JirZfKDrPJbo8Ir0AGv117pE6vj8m2mxsa/Eb59iPM7+UQrAwWW4A3eE873rU0rNJbWFYSCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAmgnREAv6JR5G7aBG40BY4zmeOuwfg2A6ziI5AiXuEDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/rideeme
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id rideeme
+```
